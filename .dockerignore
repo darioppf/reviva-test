@@ -1,0 +1,7 @@
+.git
+.gitignore
+.phpdoc
+phpdoc.phar
+composer.phar
+Dockerfile
+var
