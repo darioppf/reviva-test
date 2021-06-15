@@ -1,6 +1,6 @@
 # reviva-test
 
-This is developed as a symfony command to generate receipt from shopping basket files for demo purposes.
+This application is developed as a symfony CLI command to generate text receipt from shopping basket files for demo purposes.
 
 ## Installation
 
